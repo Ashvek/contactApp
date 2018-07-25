@@ -15,7 +15,7 @@ https://nodejs.org/en/download/
 
 ### Installing
 
-Next Step is download the zip folder extract it and visit to the directory inside cmd/terminal and run
+STEP 1 : Next Step is download the zip folder extract it and visit to the directory inside cmd/terminal and run
 
 ```
 npm install
@@ -30,12 +30,12 @@ REST API Url is set in src/environments/environment.ts and src/environments/envi
 ```
 apiUrl: 'http://localhost:3000'
 ```
-Start json-server from cmd/terminal
+STEP 2 : Start json-server from cmd/terminal
 
 ```
 npm run json-server
 ```
-Keep the server running and listening to port 3000 then run below command in different terminal tab/window to start the application
+STEP 3 : Keep the server running and listening to port 3000 then run below command in different terminal tab/window to start the application
 
 ```
 ng serve --open
