@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Ashvek",
+      "lastname": "Gaonkar",
+      "email": "yash@gmail.com",
+      "phone": "9876543210",
+      "status": "Inactive"
+    },
+    {
+      "id": 2,
+      "firstname": "Ash",
+      "lastname": "Gao",
+      "email": "ash@gmail.com",
+      "phone": "9876543210",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "firstname": "Shaw",
+      "lastname": "Jason",
+      "email": "json@gmail.com",
+      "phone": "9876543210",
+      "status": "Inactive"
+    }
+  ]
+}
