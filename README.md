@@ -1,6 +1,5 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Contact Directory App
+This application is build using Angular 6 and Bootstrap 4
 
 ## Getting Started
 
