@@ -75,5 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to angular 6 https://angular.io/tutorial
-* Inspiration
-* etc
