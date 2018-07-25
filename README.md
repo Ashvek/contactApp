@@ -35,7 +35,7 @@ Start json-server from cmd/terminal
 ```
 npm run json-server
 ```
-Once done with above steps run below command to start the application
+Keep the server running and listening to port 3000 then run below command in different terminal tab/window to start the application
 
 ```
 ng serve --open
