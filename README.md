@@ -28,6 +28,18 @@ ng serve --open
 ```
 This will Open the applpication on hhttp://localhost:4200/  by default if port is free.
 
+NPM JSON-Server is installed for API Calls. 
+
+REST API Url is set in src/environments/environment.ts and src/environments/environment.prod.ts files so we can change the api url for production and developement mode. 
+
+```
+apiUrl: 'http://localhost:3000'
+```
+Start json-server from cmd/terminal
+
+```
+npm run json-server
+```
 ## Running the tests
 
 Explain how to run the automated tests for this system
