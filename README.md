@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You must have Node JS and Npm installed on your system. If not installed then follow below steps
+You must have Node JS and Npm installed on your system. If not installed then follow below steps 
 
 ```
 https://nodejs.org/en/download/
